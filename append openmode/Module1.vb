@@ -9,6 +9,8 @@
             WriteLine(1, name)
         Next
         FileClose()
+        Console.WriteLine("Here is my new code")
+
     End Sub
 
 End Module
